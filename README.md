@@ -1,3 +1,1 @@
-# auto-tests-course
-+1 string
-+2 string
+Homework for https://stepik.org/course/575/syllabus
